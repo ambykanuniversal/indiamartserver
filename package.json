@@ -1,0 +1,14 @@
+{
+  "name": "zohoindiamart_function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "systems0405@gmail.com",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "pino": "^9.1.0",
+    "pino-pretty": "^11.1.0",
+    "zcatalyst-sdk-node": "latest"
+  }
+}
